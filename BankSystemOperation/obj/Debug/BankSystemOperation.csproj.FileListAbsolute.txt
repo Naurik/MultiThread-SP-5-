@@ -1,0 +1,14 @@
+c:\users\машимовн.corp\source\repos\BankSystemOperation\BankSystemOperation\obj\Debug\BankSystemOperation.csprojAssemblyReference.cache
+c:\users\машимовн.corp\source\repos\BankSystemOperation\BankSystemOperation\obj\Debug\BankSystemOperation.csproj.CoreCompileInputs.cache
+c:\users\машимовн.corp\source\repos\BankSystemOperation\BankSystemOperation\bin\Debug\BankSystemOperation.exe.config
+c:\users\машимовн.corp\source\repos\BankSystemOperation\BankSystemOperation\bin\Debug\BankSystemOperation.exe
+c:\users\машимовн.corp\source\repos\BankSystemOperation\BankSystemOperation\bin\Debug\BankSystemOperation.pdb
+c:\users\машимовн.corp\source\repos\BankSystemOperation\BankSystemOperation\obj\Debug\BankSystemOperation.exe
+c:\users\машимовн.corp\source\repos\BankSystemOperation\BankSystemOperation\obj\Debug\BankSystemOperation.pdb
+C:\Users\Acer-PC\source\repos\BankSystemOperation\BankSystemOperation\bin\Debug\BankSystemOperation.exe.config
+C:\Users\Acer-PC\source\repos\BankSystemOperation\BankSystemOperation\bin\Debug\BankSystemOperation.exe
+C:\Users\Acer-PC\source\repos\BankSystemOperation\BankSystemOperation\bin\Debug\BankSystemOperation.pdb
+C:\Users\Acer-PC\source\repos\BankSystemOperation\BankSystemOperation\obj\Debug\BankSystemOperation.csprojAssemblyReference.cache
+C:\Users\Acer-PC\source\repos\BankSystemOperation\BankSystemOperation\obj\Debug\BankSystemOperation.csproj.CoreCompileInputs.cache
+C:\Users\Acer-PC\source\repos\BankSystemOperation\BankSystemOperation\obj\Debug\BankSystemOperation.exe
+C:\Users\Acer-PC\source\repos\BankSystemOperation\BankSystemOperation\obj\Debug\BankSystemOperation.pdb
